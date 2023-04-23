@@ -1,0 +1,1 @@
+export const urlChangeEvent = new Event('url-change');
